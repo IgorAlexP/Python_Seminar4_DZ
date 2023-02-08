@@ -15,7 +15,7 @@ list_2 = []
 
 
 for i in range(n):
-    list_1.append(randint(0, 15))
+    list_1.append(randint(0, 10))
 for i in range(m):
     list_2.append(randint(0, 10))
 
